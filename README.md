@@ -13,12 +13,9 @@ I am an IT graduate with a strong interest in Data Analytics, Artificial Intelli
 - Machine Learning
 - Data Visualization
 - Data Analysis
-- Data Analysis
 - Power Query
 - DAX
 - Python libraries
-- Scikit-learn
-- Matplotlib
 - Git & GitHub
 - LLM & RAG pipeline
 
