@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Theerthini 👋
 
-<!--
-**theerthinitheerthini/theerthinitheerthini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+I am an IT graduate with a strong interest in Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy transforming data into meaningful insights and building data-driven solutions to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Data Visualization
+- Data Analysis
+- Data Analysis
+- Power Query
+- DAX
+- Python libraries
+- Scikit-learn
+- Matplotlib
+- Git & GitHub
+- LLM & RAG pipeline
+
+## Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Artificial Intelligence
+- Machine Learning
+- Predictive Analytics
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/theerthini-data-analyst/
+- GitHub: https://github.com/theerthinitheerthini
